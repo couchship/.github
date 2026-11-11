@@ -1,8 +1,8 @@
-# PocketPane
+# Couchship
 
-**Control Claude Code from your phone.** Open source.
+**Ship from your couch.** **Control Claude Code from your phone.** Open source.
 
-PocketPane is a mobile app that lets you watch, steer and approve your Claude Code sessions from anywhere.
+Couchship is a mobile app that lets you watch, steer and approve your Claude Code sessions from anywhere.
 
 - 📱 iOS & Android
 - 🔒 Your code stays on your machine
